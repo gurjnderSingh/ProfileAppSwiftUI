@@ -20,7 +20,7 @@ struct ContentView: View {
                     .clipShape(Circle())
                     .shadow(color: .white, radius: 20, x: 3, y: 3)
                 
-                Text("Your Name")
+                Text("Gurjinder Singh")
                     .fontWeight(.bold)
                     .foregroundColor(.white)
                     .font(.system(.largeTitle))
